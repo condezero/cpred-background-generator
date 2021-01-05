@@ -1,0 +1,42 @@
+[
+    {
+    "region" :"North American",
+    "languages":["Chinese", "Cree", "Creole", "English","French", "Navajo", "Spanish"]
+    },
+    {
+        "region" :"South/Central American",
+        "languages":["Creole", "English", "German", "Guarani","Mayan", "Portuguese", "Quechua", "Spanish"]
+    },
+    {
+        "region" :"Western European",
+        "languages":["Dutch", "English", "French", "German", "Italian", "Norwegian", "Portuguese", "Spanish"]
+    },
+    {
+        "region" :"Eastern European",
+        "languages":["English", "Finnish", "Polish", "Romanian", "Russian", "Ukrainian"]
+    },
+    {
+        "region" :"Middle Eastern/North African",
+        "languages":["Arabic", "Berber", "English", "Farsi","French", "Hebrew", "Turkish"]
+    },
+    {
+        "region" :"Sub-Saharan African",
+        "languages":["Arabic", "English", "French", "Hausa", "Lingala", "Oromo", "Portuguese", "Swahili", "Twi", "YorubaArabic", "English", "French", "Hausa", "Lingala", "Oromo", "Portuguese", "Swahili", "Twi", "Yoruba"]
+    },
+    {
+        "region" :"South Asian",
+        "languages":["Bengali", "Dari", "English", "Hindi", "Nepali","Sinhalese", "Tamil", "Urdu"]
+    },
+    {
+        "region" :"South East Asian",
+        "languages":["Arabic", "Burmese", "English", "Filipino", "Hindi","Indonesian", "Khmer", "Malayan", "Vietnamese"]
+    },
+    {
+        "region" :"East Asian",
+        "languages":["Cantonese Chinese", "English", "Japanese", "Korean","Mandarin Chinese", "Mongolian"]
+    },
+    {
+        "region" :"Oceania/Pacific Islander",
+        "languages":["English", "French", "Hawaiian", "Maori", "Pama-Nyungan", "Tahitian"]
+    }
+]
