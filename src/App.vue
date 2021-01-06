@@ -12,10 +12,6 @@
 
     <footer class="footer container">
       <div class="footer__content">
-        <p>
-          Content &copy; R. Talsorian Games, Inc.<br />
-          Code &copy; Ben Serrette
-        </p>
       </div>
       <div class="footer__content">
         <a href="">Contribute on Github</a>
