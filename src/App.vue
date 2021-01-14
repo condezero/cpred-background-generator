@@ -14,7 +14,7 @@
       <div class="footer__content">
       </div>
       <div class="footer__content">
-        <a href="">Contribute on Github</a>
+       
       </div>
     </footer>
   </div>
