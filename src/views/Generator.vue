@@ -2,12 +2,14 @@
   <div class="charsheet-generator" >
     <section class="charsheet-header">
       <div class="charsheet-header__roles">
-         <select class="select-input">
+         <select class="select-input" v-on="c">
           <option v-for="role in role_options" :key='`role_option_${role}`'>{{role}}</option>
         </select>
       </div>
     </section>
-
+   <section c
+   lass="lifepath-gen">
+   </section>
    </div>
 </template>
 <script>
